@@ -1,1 +1,9 @@
 C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\bin\Debug\ShapesDemoGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\bin\Debug\ShapesDemoGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\bin\Debug\ShapesDemoGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\ShapesDemoGUI\ShapesDemoGUI\obj\Debug\ShapesDemoGUI.pdb

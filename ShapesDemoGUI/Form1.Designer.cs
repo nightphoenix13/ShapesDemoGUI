@@ -91,6 +91,7 @@
             this.createButton.TabIndex = 5;
             this.createButton.Text = "Create Shape";
             this.createButton.UseVisualStyleBackColor = true;
+            this.createButton.Click += new System.EventHandler(this.createButton_Click);
             // 
             // shapeTextBox
             // 
@@ -109,6 +110,7 @@
             this.newShapeButton.TabIndex = 7;
             this.newShapeButton.Text = "New Shape";
             this.newShapeButton.UseVisualStyleBackColor = true;
+            this.newShapeButton.Click += new System.EventHandler(this.newShapeButton_Click);
             // 
             // Form1
             // 
